@@ -8,8 +8,6 @@ tags: [python, django]
 
 ## xlrd.biffh.XLRDError: Excel xlsx file; not supported 이슈
 
-django 앱을 새로운 로컬환경에서 수정할 일이 있었는데 라이브 서버에서는 문제가 없던 엑셀 파일 작성 기능이 로컬컴퓨터에서 오류가 발생했다.
-
 xlrd 2.0.0 이상 에서 잠재적 보안 취약성 때문에 xlsx 파일을 더이상 지원하지 않아서 생기는 문제라고 한다.
 
 다음과 같은 방법으로 해결 할수 있다.
