@@ -38,7 +38,7 @@ xlrd==1.2.0
 ...
 ```
 
-이후 `pip install -r requirements` 명령으로 패키지 재설치후 정상 작동 확인했다.
+이후 `pip install -r requirements` 명령으로 패키지를 재설치 한다.
 
 ---
 
