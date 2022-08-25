@@ -2,7 +2,7 @@
 layout: post
 title: "xlrd.biffh.XLRDError: Excel xlsx file; not supported" 이슈
 excerpt: "xlrd.biffh.XLRDError: Excel xlsx file; not supported" 이슈
-date: 2022-08-25
+date: 2022-08-24
 tags: [python, django]
 toc: false
 ---
